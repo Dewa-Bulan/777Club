@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Sitemap: https://dewa-bulan.github.io/777Club/sitemap.xml
